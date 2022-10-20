@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">socialrelevent project</string>
+    <string name="app_name"><font fgcolor='#ffff00'>Tomato Leaf Disease Detection</font></string>
+
 </resources>
